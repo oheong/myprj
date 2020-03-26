@@ -1,4 +1,3 @@
-package ssafy.hw200326;
 
 public class APT {
 	String money; // 거래금액 o
