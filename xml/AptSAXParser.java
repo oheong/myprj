@@ -1,4 +1,3 @@
-package ssafy.hw200326;
 
 import java.io.File;
 import java.util.List;
